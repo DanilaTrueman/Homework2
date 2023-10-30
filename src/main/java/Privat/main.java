@@ -1,4 +1,4 @@
-package privat;
+package Privat;
 
 public class main {
 

@@ -1,4 +1,4 @@
-package Additionally.Primitives;
+package Additionally.PrimitivesAndWrappers;
 
 public class Primitives {
         public static void main(String[] args) {
